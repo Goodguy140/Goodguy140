@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Goodguy140
+- 👀 I’m interested in Computers and Technology as a whole.
+- 🌱 I’m currently learning C#, and unity game development
+- 📫 How to reach me Twitter: **YTGoodguy140**
