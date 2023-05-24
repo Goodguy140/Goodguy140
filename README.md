@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Goodguy140
-- 👀 I’m interested in Computers and Technology as a whole.
-- 🌱 I’m currently learning C#, and unity game development
-- 📫 How to reach me Twitter: **YTGoodguy140**
+# About GPG Verified Commits
+All of my commits past <time datetime="2023-05-24T20:38:48-03:00">May 24, 2023 8:38 PM</time> will be verified.
+Older commits will show as unverified.
